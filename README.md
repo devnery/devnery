@@ -7,3 +7,5 @@
 currently graduating in systems analysis and development.
 
 - [more about me](https://linktr.ee/neryexplicit) 👺 - boy in love with technology and art.
+- ![b4aeb7d23a75db2a0da44cc40e464d7c](https://user-images.githubusercontent.com/114960661/203191027-980b0cf1-76b5-4be8-9fdc-013012401cfa.gif)
+
