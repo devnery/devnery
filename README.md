@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Nery! 
+  Hi 👋, I'm Nery! boy in love with technology and art. 
 
   - 🌱 I am currently studying Systems Analysis and Development at Centro Universitário Senac.
 
